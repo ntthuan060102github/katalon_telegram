@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check_search_member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5027e4ff-aca5-4b7f-9083-49336838ea42</testCaseGuid>
+   <variable>
+      <defaultValue>'team_d1'</defaultValue>
+      <description></description>
+      <id>103ba1e9-0ec5-4214-a31f-7b812e494609</id>
+      <masked>false</masked>
+      <name>group_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'vu'</defaultValue>
+      <description></description>
+      <id>11fe4c0e-5569-4eba-b213-64245d04ee82</id>
+      <masked>false</masked>
+      <name>menber_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>202433ac-2906-4d2e-b17e-3ea2e7c0ec7f</id>
+      <masked>false</masked>
+      <name>menber_name_check</name>
+   </variable>
+</TestCaseEntity>

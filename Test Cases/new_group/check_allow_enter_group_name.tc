@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check_allow_enter_group_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ee7b917-ce58-400f-8a5e-cb04e617c94d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f4bc268-c560-4aa5-ba2b-2886e0a8ca4a</id>
+      <masked>false</masked>
+      <name>group_name</name>
+   </variable>
+</TestCaseEntity>

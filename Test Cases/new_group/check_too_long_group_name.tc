@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check_too_long_group_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24e89d17-7ffd-42e6-8527-708fcb7c3ee8</testCaseGuid>
+   <variable>
+      <defaultValue>'123123213213213123213123213123123213213213213123asdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd12354654dddddddddgdfgdfgfd1546546465465465465465asda6s4as6d4as6d45a6sf4a6dv45s6dv46sd4f56sd4f6sdf46sdf46as51d6as5d16asd5'</defaultValue>
+      <description></description>
+      <id>33b3938d-be0e-49a0-8c4a-0574e80dc430</id>
+      <masked>false</masked>
+      <name>too_long_group_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01ee4de7-289d-4905-a1b7-32ba5856d7ab</id>
+      <masked>false</masked>
+      <name>actual_group_name</name>
+   </variable>
+</TestCaseEntity>
